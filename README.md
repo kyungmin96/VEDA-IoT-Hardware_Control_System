@@ -14,9 +14,9 @@
 - **📚 모듈화 설계**: 각 하드웨어별 독립적인 공유 라이브러리
 
 ## 시연 영상 링크(YouTube)
-```
-https://youtu.be/vg8TOxRt5D0
-```
+
+[[시연 영상 링크]](https://youtu.be/dQw4w9WgXcQ)
+
 
 ## 🏗️ 시스템 아키텍처
 
