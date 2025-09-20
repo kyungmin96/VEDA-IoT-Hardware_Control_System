@@ -15,7 +15,7 @@
 
 ## 시연 영상 링크(YouTube)
 
-[[시연 영상 링크]](https://youtu.be/dQw4w9WgXcQ)
+[[시연 영상 링크]](https://youtu.be/vg8TOxRt5D0)
 
 
 ## 🏗️ 시스템 아키텍처
